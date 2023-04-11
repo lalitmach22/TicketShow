@@ -2,7 +2,7 @@
 
 App to book show tickets with CRUD operations by Admin on show &amp; venue. User has create and delete operations on booking
 
-This project is to develop a web application using Flask to book movie tickets with CRUS operations for admin on venues and shows, and give functionality to the user to register, login, book tickets, see my_bookings and delete his bookings. Software used are listed in requirements.txt to help in installation from requirements.txt in virtual environment. 
+This project is to develop a web application using Flask to book movie tickets with CRUD operations for admin on venues and shows, and give functionality to the user to register, login, book tickets, see my_bookings and delete his bookings. Software used are listed in requirements.txt to help in installation from requirements.txt in virtual environment. 
 
 2. Models There are four models defined in models.py for the project. UserMixin from flask_login alongwith the database has been used for defining these models. The sqlite3 database is made in database directory with the same models . Models are as following :-
 

@@ -1,0 +1,42 @@
+/* This is a comment */
+
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set font */
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Set background color */
+  body {
+    background-color: #f1f1f1;
+  }
+  
+  /* Set header style */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Set link style */
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  /* Set button style */
+  button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
